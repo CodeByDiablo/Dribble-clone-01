@@ -53,7 +53,7 @@ https://codebydiablo.github.io/Dribble-clone-01/
 
 ---
 
- #🌳 DOM Structure
+#🌳 DOM Structure
 
  ```
 html
